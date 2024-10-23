@@ -14,8 +14,8 @@ I did remove the test files because couldn't get Junit to work.
 ## Installation
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/AndrewBaritone.git
-    cd AndrewBaritone
+    git clone https://github.com/andrew121410/andrewbaritone.git
+    cd andrewbaritone
     ```
 
 2. **Build the project:**
